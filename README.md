@@ -7,11 +7,11 @@ Maze_Runner is a 3D game using LWJGL challenging game written in pure java. It i
 # Project Documentation
   https://docs.google.com/document/d/11XHGyqJbXn8aktw63oH9P4tg0FDnVzLLxBLpiWbS_pE/edit?usp=sharing
 # How To Work:
-  1.  Import The Project:
+ 1. Import The Project:
    - Open Netbeans 
    - select File tab
    - choose open project and choose the project
-  2. import Library:
+ 2. import Library:
    - click Right on Project in netbeans
    - choose Propertise, then Libraries
    - Click add Library Give name "LWJGL-2.9.3"
